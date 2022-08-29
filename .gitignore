@@ -1,6 +1,8 @@
 # for codeforces input file and ans file
 ans*.txt
 in*.txt
+DONE
+
 
 #for C++
 
