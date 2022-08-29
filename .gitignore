@@ -1,3 +1,7 @@
+# for codeforces input file and ans file
+ans*.txt
+in*.txt
+
 #for C++
 
 # Prerequisites
